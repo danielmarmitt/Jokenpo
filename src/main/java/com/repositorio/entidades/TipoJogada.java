@@ -3,7 +3,7 @@ package com.repositorio.entidades;
 /**
  * 
  * @author daniel.marmitt
- * Representa o tipo de jogada que pode ser executada
+ * Representa o tipo de jogada que pode ser executada 
  *
  */
 public enum TipoJogada {
