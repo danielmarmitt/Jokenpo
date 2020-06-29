@@ -10,11 +10,8 @@ import com.repositorio.entidades.ResultadoPartida;
  * RestController, expondo API para possibilitar jogadas 
  */
 @RestController
-public class Jogar {
+public class Resultado {
 	
-	public void iniciarJogo(int jogador, String tipoJogada) {
-		
-	}
 	
 	@GetMapping("/api/iniciarJogo ")
 	@ResponseBody

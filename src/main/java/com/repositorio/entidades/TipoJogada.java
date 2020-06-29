@@ -24,5 +24,9 @@ public enum TipoJogada {
 		return descricao;
 	}
 
+	
+	public int getId() {
+		return id;
+	}
 
 }
